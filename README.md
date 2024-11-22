@@ -2,9 +2,10 @@
 
 Screen Recorder project. You can modify it based on the specific details and features of your project.
 
+# Screen Recorder
 A lightweight and efficient screen recording tool that captures your screen activities in high-quality video. Designed for simplicity and ease of use, this tool is perfect for creating tutorials, recording gameplay, or saving important video content from your screen.
 
-Features
+# Features
 🎥 Record the entire screen or a specific window.
 🎙️ Option to include system audio or microphone input.
 ⚙️ Adjustable recording settings (resolution, frame rate, and format).
