@@ -14,5 +14,5 @@ Features
 
 
 
-## ScreenShots 
+## Recorder
 
