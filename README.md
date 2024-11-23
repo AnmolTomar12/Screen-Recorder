@@ -1,11 +1,11 @@
-# Screen-Recorder
+# Screen-Recorder:-
 
 Screen Recorder project. You can modify it based on the specific details and features of your project.
 
-# Screen Recorder
+# Screen Recorder:
 A lightweight and efficient screen recording tool that captures your screen activities in high-quality video. Designed for simplicity and ease of use, this tool is perfect for creating tutorials, recording gameplay, or saving important video content from your screen.
 
-# Features
+# Features: 
 🎥 Record the entire screen or a specific window.
 🎙️ Option to include system audio or microphone input.
 ⚙️ Adjustable recording settings (resolution, frame rate, and format).
@@ -14,8 +14,7 @@ A lightweight and efficient screen recording tool that captures your screen acti
 🌐 Cross-platform support (Windows, macOS, Linux).
 
 
-# Recorder
-
+# Recorder:
 
 
 https://github.com/user-attachments/assets/36c27278-4e85-4414-966c-c640c964330a
@@ -26,11 +25,15 @@ https://github.com/user-attachments/assets/36c27278-4e85-4414-966c-c640c964330a
 
 A screen recorder captures the activity on a computer screen and saves it as a video file. It works by capturing frames of the screen at a set frame rate, optionally recording audio, and encoding the collected data into a video format. Here's an overview of how a screen recorder works:
 
-# Capturing the Screen
+# Capturing the Screen:
 The screen recorder takes snapshots of the screen repeatedly to create frames of the video:
 
-# Frame Rate: Determines how many frames (images) are captured per second. Common frame rates are 30 FPS or 60 FPS for smoother videos.
-# Screen Area: Users can typically select the entire screen, a specific application window, or a custom region.
+# Frame Rate: 
+Determines how many frames (images) are captured per second. Common frame rates are 30 FPS or 60 FPS for smoother videos.
+
+# Screen Area: 
+Users can typically select the entire screen, a specific application window, or a custom region.
+
 # Technologies Used:
 On Windows: APIs like GDI, DirectX, or Windows Graphics Capture API.
 On macOS: APIs like Quartz Display Services or AVFoundation.
@@ -41,5 +44,5 @@ Libraries Used:
 FFmpeg: A popular library for video encoding and decoding.
 OpenCV: Often used for capturing frames and handling basic encoding.
 
-# Writing the Video File
+# Writing the Video File:
 The encoded video is written to a file on the user's device. The recorder ensures synchronization between the video and audio tracks during this process.
