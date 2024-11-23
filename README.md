@@ -14,6 +14,9 @@ A lightweight and efficient screen recording tool that captures your screen acti
 🌐 Cross-platform support (Windows, macOS, Linux).
 
 
+# Recorder
 
-## Recorder
+
+
+https://github.com/user-attachments/assets/36c27278-4e85-4414-966c-c640c964330a
 
